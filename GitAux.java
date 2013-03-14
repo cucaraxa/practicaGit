@@ -16,6 +16,7 @@ public class GitAux {
     
     public void metodoAlumno1(){
         System.out.println("metodo 1");
+	System.out.println("modificado por Enrique Fernandez Galvez");//insertado por Enrique Fernandez Galvez
     }
     
     public void metodoAlumno2(){
@@ -24,5 +25,8 @@ public class GitAux {
     
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
+	//modificaciones Enrique Fernandez Galvez
+	System.out.println("Enrique Fernandez Galvez inserta esta sentencia");
+
     }
 }
